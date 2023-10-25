@@ -1,9 +1,12 @@
-<!DOCTYPE html>
-<html>
-<body>
+<table>
+  <tr>
+    <td> Name </td>
+    <td> Email </td>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
+  </tr>
+  <tr>
+    <td> Mai Mahmoud Badr </td>
+    <td> maimahmoud57223@gmail.com </td>
+  
+  </tr>
+</table>
